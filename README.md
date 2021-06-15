@@ -1,12 +1,12 @@
 # Registration screen 
 
- 
-
-
 ##### Screen for registration with validation, using Dataannotations in models.
-
  
-
+ ### :black_circle: Screen without validation
+ ![semvalidação](https://user-images.githubusercontent.com/72450648/121974081-07b2ba80-cd55-11eb-885f-666b26596762.png)
+ 
+ ### :red_circle: Screen validation
+![Comvalidação](https://user-images.githubusercontent.com/72450648/121974083-084b5100-cd55-11eb-918e-d37a8a21f7a3.png)
 
 ## :pushpin: Entities
 
